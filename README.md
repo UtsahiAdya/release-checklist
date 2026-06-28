@@ -4,7 +4,7 @@ A single-page application to manage software release checklists. Track the compl
 
 ## Live Demo
 
-> Add your Vercel URL here after deployment
+>https://release-checklist-iota.vercel.app/
 
 ## Tech Stack
 
